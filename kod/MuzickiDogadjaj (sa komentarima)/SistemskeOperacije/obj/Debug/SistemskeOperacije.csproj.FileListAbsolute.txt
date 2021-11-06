@@ -1,0 +1,11 @@
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\SistemskeOperacije\bin\Debug\BrokerBazePodataka.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\SistemskeOperacije\bin\Debug\Domen.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\SistemskeOperacije\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\SistemskeOperacije\bin\Debug\Domen.pdb
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb

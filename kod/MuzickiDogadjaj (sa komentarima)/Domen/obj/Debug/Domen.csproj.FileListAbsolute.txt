@@ -1,0 +1,6 @@
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Domen\bin\Debug\Domen.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Domen\bin\Debug\Domen.pdb
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Domen\obj\Debug\Domen.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Domen\obj\Debug\Domen.pdb
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Domen\obj\Debug\Domen.csprojAssemblyReference.cache

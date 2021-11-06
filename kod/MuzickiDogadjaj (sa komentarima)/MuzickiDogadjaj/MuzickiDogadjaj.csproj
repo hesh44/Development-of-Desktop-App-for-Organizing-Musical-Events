@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE9E6FC5-6FE6-48C0-A9F8-885F9013A733}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MuzickiDogadjaj</RootNamespace>
+    <AssemblyName>MuzickiDogadjaj</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmBrisanjeIzmenaIzvodjaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBrisanjeIzmenaIzvodjaca.Designer.cs">
+      <DependentUpon>FrmBrisanjeIzmenaIzvodjaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBrisanjeIzmenaMuzickogD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBrisanjeIzmenaMuzickogD.Designer.cs">
+      <DependentUpon>FrmBrisanjeIzmenaMuzickogD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGlavnaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGlavnaForma.Designer.cs">
+      <DependentUpon>FrmGlavnaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUnosIzvodjaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUnosIzvodjaca.Designer.cs">
+      <DependentUpon>FrmUnosIzvodjaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUnosMuzickogD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUnosMuzickogD.Designer.cs">
+      <DependentUpon>FrmUnosMuzickogD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUnosNastupa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUnosNastupa.Designer.cs">
+      <DependentUpon>FrmUnosNastupa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KBrisanjeIzmenaIzvodjaca.cs" />
+    <Compile Include="KBrisanjeIzmenaMuzickogD.cs" />
+    <Compile Include="KGlavnaForma.cs" />
+    <Compile Include="KLogin.cs" />
+    <Compile Include="Komunikacija.cs" />
+    <Compile Include="KUnosIzvodjaca.cs" />
+    <Compile Include="KUnosMuzickogD.cs" />
+    <Compile Include="KUnosNastupa.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmBrisanjeIzmenaIzvodjaca.resx">
+      <DependentUpon>FrmBrisanjeIzmenaIzvodjaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBrisanjeIzmenaMuzickogD.resx">
+      <DependentUpon>FrmBrisanjeIzmenaMuzickogD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGlavnaForma.resx">
+      <DependentUpon>FrmGlavnaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUnosIzvodjaca.resx">
+      <DependentUpon>FrmUnosIzvodjaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUnosMuzickogD.resx">
+      <DependentUpon>FrmUnosMuzickogD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUnosNastupa.resx">
+      <DependentUpon>FrmUnosNastupa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domen\Domen.csproj">
+      <Project>{6d0e2f12-4a3f-4923-aa57-291288ee78ce}</Project>
+      <Name>Domen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

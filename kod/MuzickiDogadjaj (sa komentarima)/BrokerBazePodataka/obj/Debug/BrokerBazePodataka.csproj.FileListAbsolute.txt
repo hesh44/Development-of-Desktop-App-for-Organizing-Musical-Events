@@ -1,0 +1,9 @@
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\BrokerBazePodataka\bin\Debug\Domen.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\BrokerBazePodataka\bin\Debug\Domen.pdb
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb

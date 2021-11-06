@@ -1,0 +1,13 @@
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\bin\Debug\Domen.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\bin\Debug\SistemskeOperacije.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\bin\Debug\Domen.pdb
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\bin\Debug\SistemskeOperacije.pdb
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\hesh\Desktop\PS PROJEKAT\kod\MuzickiDogadjaj\Kontroler\obj\Debug\Kontroler.pdb
